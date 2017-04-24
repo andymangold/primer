@@ -1,0 +1,287 @@
+-
+  name: Oros, the Avenger
+  set: PLC
+-
+  name: Vault of the Archangel
+  set: DKA
+-
+  name: Basilisk Collar
+  set: WWK
+-
+  name: Sun Droplet
+  set: MRD
+-
+  name: Righteous Aura
+  set: VIS
+-
+  name: Crawlspace
+  set: ULG
+# -
+#   name: Ghostly Prison
+#   set:
+# -
+#   name: Story Circle
+#   set:
+# -
+#   name: Hissing Miasma
+#   set:
+# -
+#   name: Windborn Muse
+#   set:
+# -
+#   name: No Mercy
+#   set:
+# -
+#   name: Righteous Cause
+#   set:
+# -
+#   name: Dread
+#   set:
+# -
+#   name: Sol Ring
+#   set:
+# -
+#   name: Boros Signet
+#   set:
+# -
+#   name: Orzhov Signet
+#   set:
+# -
+#   name: Rakdos Signet
+#   set:
+# -
+#   name: Pilgrim's Eye
+#   set:
+# -
+#   name: Darksteel Ingot
+#   set:
+# -
+#   name: Chromatic Lantern
+#   set:
+# -
+#   name: Solemn Simulacrum
+#   set:
+# -
+#   name: Gilded Lotus
+#   set:
+# -
+#   name: Pyromancer's Goggles
+#   set:
+# -
+#   name: Tithe
+#   set:
+# -
+#   name: Weathered Wayfarer
+#   set:
+# -
+#   name: Enlightened Tutor
+#   set:
+# -
+#   name: Demonic Tutor
+#   set:
+# -
+#   name: Stoneforge Mystic
+#   set:
+# -
+#   name: Knight of the White Orchid
+#   set:
+# -
+#   name: Sunforger
+#   set:
+# -
+#   name: Howling Mine
+#   set:
+# -
+#   name: Mind's Eye
+#   set:
+# -
+#   name: Orim's Chant
+#   set:
+# -
+#   name: Angel's Grace
+#   set:
+# -
+#   name: Dawn Charm
+#   set:
+# -
+#   name: Boros Charm
+#   set:
+# -
+#   name: Final Fortune
+#   set:
+# -
+#   name: Chaos Warp
+#   set:
+# -
+#   name: Utter End
+#   set:
+# -
+#   name: Fault Line
+#   set:
+# -
+#   name: Word of Seizing
+#   set:
+# -
+#   name: Austere Command
+#   set:
+# -
+#   name: Merciless Eviction
+#   set:
+# -
+#   name: Reiterate
+#   set:
+# -
+#   name: Wild Ricochet
+#   set:
+# -
+#   name: Radiate
+#   set:
+# -
+#   name: Rakdos Charm
+#   set:
+# -
+#   name: Comeuppance
+#   set:
+# -
+#   name: Master Warcraft
+#   set:
+# -
+#   name: Netherborn Phalanx
+#   set:
+# -
+#   name: Deflecting Palm
+#   set:
+# -
+#   name: Backlash
+#   set:
+# -
+#   name: Mirror Strike
+#   set:
+# -
+#   name: Selfless Squire
+#   set:
+# -
+#   name: Reflect Damage
+#   set:
+# -
+#   name: Price of Progress
+#   set:
+# -
+#   name: Blood Oath
+#   set:
+# -
+#   name: Sudden Impact
+#   set:
+# -
+#   name: Repay in Kind
+#   set:
+# -
+#   name: Mistveil Plains
+#   set:
+# -
+#   name: Past in Flames
+#   set:
+# -
+#   name: Charmbreaker Devils
+#   set:
+# -
+#   name: Bojuka Bog
+#   set:
+# -
+#   name: Reliquary Tower
+#   set:
+# -
+#   name: Mirrorpool
+#   set:
+# -
+#   name: Boseiju, Who Shelters All
+#   set:
+# -
+#   name: Command Tower
+#   set:
+# -
+#   name: Nomad Outpost
+#   set:
+# -
+#   name: Reflecting Pool
+#   set:
+# -
+#   name: Arid Mesa
+#   set:
+# -
+#   name: Marsh Flats
+#   set:
+# -
+#   name: Bloodstained Mire
+#   set:
+# -
+#   name: Terramorphic Expanse
+#   set:
+# -
+#   name: Evolving Wilds
+#   set:
+# -
+#   name: Plateau
+#   set:
+# -
+#   name: Sacred Foundry
+#   set:
+# -
+#   name: Blood Crypt
+#   set:
+# -
+#   name: Godless Shrine
+#   set:
+# -
+#   name: Temple of Triumph
+#   set:
+# -
+#   name: Temple of Silence
+#   set:
+# -
+#   name: Temple of Malice
+#   set:
+# -
+#   name: Needle Spires
+#   set:
+# -
+#   name: Orzhov Basilica
+#   set:
+# -
+#   name: Boros Garrison
+#   set:
+# -
+#   name: Rakdos Carnarium
+#   set:
+# -
+#   name: Graven Cairns
+#   set:
+# -
+#   name: Battlefield Forge
+#   set:
+# -
+#   name: Caves of Koilos
+#   set:
+# -
+#   name: Sulfurous Springs
+#   set:
+# -
+#   name: Isolated Chapel
+#   set:
+# -
+#   name: Clifftop Retreat
+#   set:
+# -
+#   name: Dragonskull Summit
+#   set:
+# -
+#   name: Mountain
+#   set: LEB
+#   quantity: 2
+# -
+#   name: Plains
+#   set: LEB
+#   quantity: 5
+# -
+#   name: Swamp
+#   set: LEB

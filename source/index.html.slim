@@ -2,7 +2,6 @@
 title: Magic Primer
 ---
 
-
-- data.sets["LEA"]["cards"].select {|card| card.name == "Black Lotus"}.each do |card|
-  img src="http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=#{card.multiverseid}&type=card"
-
+- data.oros.each do |x|
+  - data.sets[x.set]["cards"].select {|c| c.name == x.name}.each do |card|
+    img src="http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=#{card.multiverseid}&type=card"
