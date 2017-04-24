@@ -3,10 +3,6 @@ title: Magic Primer
 ---
 
 
-- data.cards.each do |card|
-  h1 = card.name
+- data.sets["LEA"]["cards"].select {|card| card.name == "Black Lotus"}.each do |card|
+  img src="http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=#{card.multiverseid}&type=card"
 
-
-
-- data.people.friends.each do |f|
-  div = f
