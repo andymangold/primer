@@ -2,6 +2,11 @@
 title: Magic Primer
 ---
 
-- data.oros.each do |x|
-  - data.sets[x.set]["cards"].select {|c| c.name == x.name}.each do |card|
-    img src="http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=#{card.multiverseid}&type=card"
+h1 Oros, the Avenger
+
+.cards
+  - data.oros.each do |x|
+    - data.sets[x.set]["cards"].select {|c| c.name == x.name}.each do |card|
+
+      .card
+        img src="http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=#{card.multiverseid}&type=card"

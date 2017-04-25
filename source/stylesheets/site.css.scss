@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css?family=Libre+Franklin:400,700');
+
+body {
+  font-family: 'Libre Franklin', sans-serif;
+  margin: 3em;
+}
+
+img {
+  border-radius: 10px;
+}
+
+.cards {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.card {
+  width: 200px;
+  height: 33px;
+  position: relative;
+  margin-right: 6px;
+
+  img {
+    position: absolute;
+    width: 100%;
+    top: 0;
+    left: 0;
+  }
+}
