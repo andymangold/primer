@@ -5,9 +5,12 @@ title: Magic Primer
 h1 Oros, the Avenger
 
 .cards
-  - data.oros.each do |x|
-    - data.sets[x.set]["cards"].select {|c| c.name == x.name}.each do |card|
+  - data.oros.each do |deckcard|
+    - card = data.sets[deckcard.set]["cards"].find {|datacard| datacard.name == deckcard.name}
+    - if card.nil?
+      h1 Andy is dumb about #{deckcard.name}
 
+    - else
       .card
         img src="http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=#{card.multiverseid}&type=card"
 
