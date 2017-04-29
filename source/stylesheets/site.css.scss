@@ -1,5 +1,14 @@
 @import url('https://fonts.googleapis.com/css?family=Libre+Franklin:400,700');
 
+%text-block {
+  max-width: 34em;
+  line-height: 150%;
+}
+
+* {
+  box-sizing: border-box;
+}
+
 body {
   font-family: 'Libre Franklin', sans-serif;
   margin: 3em;
@@ -17,20 +26,33 @@ img {
 }
 
 .card {
+  transition: all 0.15s;
   width: 200px;
   height: 33px;
   position: relative;
-  margin-right: 6px;
+  margin-right: 10px;
+  z-index: 1;
 
   img {
     position: absolute;
     width: 100%;
     top: 0;
     left: 0;
+    pointer-events: none;
+  }
+
+  &:hover {
+    z-index: 2;
+    transform: scale(1.05);
   }
 }
 
 p {
-  max-width: 34em;
-  line-height: 150%;
+  @extend %text-block;
+}
+
+ul, ol {
+  @extend %text-block;
+  margin: 0;
+  padding-left: 1.5em;
 }

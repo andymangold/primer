@@ -19,6 +19,10 @@
   set: PLC
   qty: 1
 -
+  name: Righteous Aura
+  set: VIS
+  qty: 1
+-
   name: Crawlspace
   set: ULG
   qty: 1
@@ -41,10 +45,6 @@
 -
   name: No Mercy
   set: ULG
-  qty: 1
--
-  name: Righteous Cause
-  set: ONS
   qty: 1
 -
   name: Dread
