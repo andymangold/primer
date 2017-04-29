@@ -11,7 +11,8 @@ h1 Oros, the Avenger
       h1 Andy is dumb about #{deckcard.name}
 
     - else
-      .card
-        img src="http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=#{card.multiverseid}&type=card"
+      - deckcard.qty.times
+        .card
+          img src="http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=#{card.multiverseid}&type=card"
 
 =  partial "origins"
