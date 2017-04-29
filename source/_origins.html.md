@@ -1,6 +1,6 @@
 ## Origins
 
-One of the worst feelings in the game of Magic is looking down at a card or board state and knowing you don't have a way to beat it. I loathe this feeling enough that it has guided my play and deckbuilding, which means that I end up running many controlling and defensive decks. Understandably, not everyone in my playgroup is excited to play against decks like this, at least not all the time. This deck started as a response to my playgroup and a challenge to myself: could I build a deck that satisfied my desire to answer every board state but without actually removing any of my opponent's threats, unless absolutely necessary?
+One of the worst feelings in the game of Magic is looking down at a card or board state and knowing you don't have a way to beat it. I loathe this feeling enough that it has guided my play and deckbuilding, which means that I end up running many controlling and defensive decks with answers for every kind of threat. Understandably, not everyone in my playgroup is excited to play against decks like this, at least not all the time. This deck started as a response to my playgroup and a challenge to myself: could I build a deck that satisfied my desire to answer every board state but without actually removing any of my opponent's threats, unless absolutely necessary?
 
 I did my due diligence and tried to find decks built with a similar strategy, and came across [this Tariel list](http://www.mtgsalvation.com/forums/the-game/commander-edh/multiplayer-commander-decklists/490546-tariel-youll-thank-me-for-this) from Rachmiel. The motivations are similar, but my list varies enough that I believe it warrants its own explanation. Nevertheless, I owe Rachmiel a thank you for their thoughtful primer which got me started down this road properly.
 
@@ -20,5 +20,36 @@ First, let's consider the player in the lead. They are motivated to end the game
 
 We play Mardu for two main reasons:
 
-1. Mardu, particularly white and red, gives us access to the defensive and reactive effects that inspired the deck.
-2. Mardu is arguably the least powerful color wedge in EDH. Without playing green or blue, we're giving up the most powerful ramp, countermagic, and card draw effects in the format. It is not an exaggeration to say that many players will consider us behind on turn 0, before a single card has been played, simply because of our color identity. This plays right into our strategy.
+1. It gives us access to the defensive and reactive effects that inspired the deck.
+2. It is arguably the least powerful color wedge in EDH. Without playing green or blue, we're giving up the most powerful ramp, countermagic, and card draw effects in the format. It is not an exaggeration to say that many players will consider us behind on turn 0, before a single card has been played, simply because of our color identity. This plays right into our strategy.
+
+
+## Commander Choice: Why Oros?
+
+Oros is the least popular single-creature Mardu commander. She's fairly expensive, provides us no utility unless she connects with one of our opponents, and her mini-wrath effect is conditional, having no effect on boards full of white creatures. We run in spite of all of this because:
+
+- She is unassuming and generally the least threatening of all the Mardu options. This is a benefit to the deck, which aims to pose no threat to anyone in the early and mid game.
+- There is no prescriptive way to build her, which means our opponents won't know what we're up to when we sit down, provided we've never played them before.
+- Her epithet is "the Avenger", which is relates to the theme and strategy of the deck: to do no harm until harm is done to us.
+- She is a reasonable body and can close out the game solo if left unchecked. When plans A through C don't work out, it's nice to have a reliable 6/6 flying dragon as plan D.
+- With cards like Basilisk Collar and Vault of the Archangel, she can become a huge threat in a split second, and stands to gain us a ton of life in some scenarios, especially if we're behind.
+- Her art is solid.
+
+
+## Matchups
+
+### Good Matchups
+
+- Voltron decks
+- Battlecruiser decks
+- Timmys &amp; Tammys
+- Many combo decks
+
+### Bad Matchups
+
+- Heavy countermagic
+- Discard
+- Stax &amp; resource denial
+- Attrition
+
+
